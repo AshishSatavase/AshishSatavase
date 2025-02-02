@@ -49,7 +49,7 @@ I'm a **Full-Stack Developer** with an interest in **backend technologies**. I'm
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishSatavase&show_icons=true&theme=radical" width="48%" height="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishSatavase&show_icons=true&theme=radical" width="48%" height="80%"/>
   <img src="https://streak-stats.demolab.com/?user=AshishSatavase&theme=radical" width="48%" height="100%"/>
 </div>
 
