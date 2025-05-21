@@ -6,15 +6,6 @@ I'm a **Full-Stack Developer** with an interest in **backend technologies**. I'm
 
 ---
 
-### 💼 Experience
-
-🔹 **Interned at Smowcode**: Contributed in building UI components for the Smowcode IDE. Worked on the JavaScript compiler which converts Smowcode scripts into JavaScript.
-
-🔹 **VCP Tech at DJSCE E-Cell**: Contributed in building DJSCE E-Cell's official website.
-
-🔹 **HOD Editorial at DJCSI**: Contributed in drafting the monthly newsletter *Techflix* and annual magazine *Protocol*.
-
----
 
 ### 🛠 Tech Stack
 
